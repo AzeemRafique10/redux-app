@@ -7,9 +7,9 @@ export const addToCart = (data) => {
   };
 };
 
-export const removeFromCart = (id) => {
-  return {
-    type: "REMOVE_FROM_CART",
-    id: id,
-  };
-};
+// export const removeFromCart = (id) => {
+//   return {
+//     type: "REMOVE_FROM_CART",
+//     id: id,
+//   };
+// };
