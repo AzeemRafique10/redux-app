@@ -1,0 +1,37 @@
+.container-cart {
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.addToCartButton {
+  background-color: rgb(187, 87, 87);
+  height: 50px;
+  width: 100px;
+  border-radius: 10px;
+  border: none;
+}
+
+.cart-container {
+  position: relative;
+  display: inline-block;
+}
+
+.cart {
+  font-size: 52px;
+  position: relative;
+}
+
+.cart-counter {
+  position: absolute;
+  top: -8px;
+  right: -8px;
+  background-color: red;
+  color: white;
+  border-radius: 50%;
+  padding: 2px 6px;
+  font-size: 12px;
+  font-weight: bold;
+  min-width: 20px;
+  text-align: center;
+}
