@@ -9,9 +9,9 @@ const App = () => {
       {/* <User data={{ name: "Azeem", last: "Rafique", age: 26 }} /> */}
       {/* <Home /> */}
 
-      <HomeContainer/>
+      <HomeContainer />
     </div>
   );
-}
+};
 
 export default App;

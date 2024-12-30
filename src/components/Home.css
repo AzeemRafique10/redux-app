@@ -24,14 +24,14 @@
 
 .cart-counter {
   position: absolute;
-  top: -8px;
-  right: -8px;
+  top: -5px;
+  right: -9px;
   background-color: red;
   color: white;
-  border-radius: 50%;
-  padding: 2px 6px;
-  font-size: 12px;
+  border-radius: 50px;
+  font-size: 15px;
   font-weight: bold;
-  min-width: 20px;
+  width: 25px;
+  height: 25px;
   text-align: center;
 }
